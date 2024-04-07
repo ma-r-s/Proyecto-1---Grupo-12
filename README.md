@@ -24,22 +24,14 @@ En esta etapa, el rol principal es el de un científico de datos. Cada grupo deb
 Para comenzar con este proyecto, clone este repositorio e instale las dependencias necesarias.
 
 ```bash
-git clone https://github.com/tu-repositorio/analisis-resenas-sitios-turisticos.git
-cd analisis-resenas-sitios-turisticos
-pip install -r requirements.txt
+git clone https://github.com/ma-r-s/Proyecto_1-Inteligencia_de_Negocios-G12/edit/main/README.md
+cd Proyecto_1-Inteligencia_de_Negocios-G12
 ```
 
 ## Uso
 
-Para ejecutar el proyecto, use el siguiente comando:
+Para ejecutar el proyecto abra proyecto1.ipynb en su editor de Jupyter Notebooks.
 
-```bash
-python main.py
-```
-
-## Contribuyendo
-
-Por favor lea [CONTRIBUTING.md](CONTRIBUTING.md) para detalles sobre nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Licencia
 
