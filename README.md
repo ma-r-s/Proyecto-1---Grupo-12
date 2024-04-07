@@ -8,7 +8,7 @@ El proyecto también tiene como objetivo comparar las características de estos 
 
 ## Datos
 
-Los actores del turismo han preparado dos conjuntos de datos con reseñas de sitios turísticos. Cada reseña tiene una calificación basada en el sentimiento que el turista tuvo al visitar. Los actores quieren un análisis independiente de los conjuntos de datos y al final del proyecto discutir los grupos de científicos de datos e ingenieros de datos que acompañarán el desarrollo real de este proyecto.
+Los actores del turismo han preparado un conjunto de datos con reseñas de sitios turísticos. Cada reseña tiene una calificación basada en el sentimiento que el turista tuvo al visitar. Los actores quieren un análisis independiente de los conjuntos de datos y al final del proyecto discutir los grupos de científicos de datos e ingenieros de datos que acompañarán el desarrollo real de este proyecto.
 
 ## Objetivos
 
